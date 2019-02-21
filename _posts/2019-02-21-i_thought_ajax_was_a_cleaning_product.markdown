@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "I Thought AJAX was a Cleaning Product?!"
-date:       2019-02-21 21:20:34 +0000
+date:       2019-02-21 16:20:35 -0500
 permalink:  i_thought_ajax_was_a_cleaning_product
 ---
 
