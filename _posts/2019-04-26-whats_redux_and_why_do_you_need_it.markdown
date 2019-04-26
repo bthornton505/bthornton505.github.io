@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "What's Redux and Why do you Need It?"
-date:       2019-04-26 20:23:02 +0000
+date:       2019-04-26 16:23:03 -0400
 permalink:  whats_redux_and_why_do_you_need_it
 ---
 
