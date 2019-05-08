@@ -5,7 +5,7 @@ header-img: img/home-bg.png
 email: thorntonbrenden@gmail.com
 copyright_name: Brenden Thornton
 description: > # this means to ignore newlines until "baseurl:"
-  An Autobiography
+  A Coding Journey
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  bthornton505
