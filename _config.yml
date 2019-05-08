@@ -1,15 +1,14 @@
 # Site settings
+author: Brenden Thornton
 title: Come Code with Me
 header-img: img/home-bg.png
 email: thorntonbrenden@gmail.com
-copyright_name: bthornton505
+copyright_name: Brenden Thornton
 description: > # this means to ignore newlines until "baseurl:"
   An Autobiography
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  bthornton505
-learn_profile: bthornton505
-email_username: thorntonbrenden@gmail.com
 
 # Build settings
 markdown: kramdown
